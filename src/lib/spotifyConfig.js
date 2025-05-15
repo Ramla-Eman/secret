@@ -1,6 +1,6 @@
 
 export const SPOTIFY_CLIENT_ID = "061cb31bb4f246b0a41cd24172bb67f6"; // IMPORTANT: Replace with your actual Client ID
-export const SPOTIFY_REDIRECT_URI = window.location.origin + "/"; // Ensure this matches your Spotify App settings
+export const SPOTIFY_REDIRECT_URI = "https://secret-eight-livid.vercel.app/"; // Ensure this matches your Spotify App settings
 export const SPOTIFY_AUTH_ENDPOINT = "https://accounts.spotify.com/authorize";
 export const SPOTIFY_API_BASE_URL = "https://api.spotify.com/v1";
 
